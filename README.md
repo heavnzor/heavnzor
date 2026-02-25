@@ -59,9 +59,11 @@ Security        OWASP · GDPR · Encryption · Audit Logging · Access Control
 ### GitHub stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=heavnzor&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heavnzor&layout=compact&theme=default&hide_border=true&hide_title=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heavnzor&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heavnzor&layout=compact&theme=default&hide_border=true&hide_title=true&langs_count=8" />
 </p>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heavnzor&theme=default" />
 
 ---
 
