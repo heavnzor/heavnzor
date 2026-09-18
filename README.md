@@ -1,3 +1,5 @@
+<p align="center"><strong>English</strong> · <a href="README.fr.md">Français</a></p>
+
 <p align="center"><img src="assets/hero.svg" width="100%" alt="heavnz0r — Built to ship. Engineered to verify. Agentic developer tools, AI systems and data workflows. From Corsica."></p>
 
 <p align="center">

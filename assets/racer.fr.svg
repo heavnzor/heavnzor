@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="270" viewBox="0 0 1280 270" role="img" aria-labelledby="title desc">
+  <title id="title">01 — heavnz0r'Racer, le projet phare</title><desc id="desc">Un workflow de développement fondé sur des vérifications pour OpenCode et Claude Code.</desc>
+  <rect width="1280" height="270" rx="16" fill="#10161c"/>
+  <path d="m950 0-170 270h120L1070 0Zm170 0L950 270h65L1185 0Z" fill="#c8ff4d" opacity=".055"/>
+  <rect x="0" y="30" width="5" height="210" fill="#c8ff4d"/>
+  <text x="40" y="46" fill="#c8ff4d" font-family="monospace" font-size="15" letter-spacing="3">01 / LE PROJET PHARE</text>
+  <text x="36" y="149" fill="#f0f2eb" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="900" letter-spacing="-4">RACER<tspan fill="#c8ff4d">.</tspan></text>
+  <text x="42" y="199" fill="#b4c0c5" font-family="Arial,Helvetica,sans-serif" font-size="25">Demande → code isolé → changement vérifié.</text>
+  <text x="43" y="236" fill="#c8ff4d" font-family="monospace" font-size="13" letter-spacing="1">OPENCODE + CLAUDE CODE / TYPESCRIPT / MCP</text>
+  <path d="M850 153h63l26-47 32 91 33-65h108" fill="none" stroke="#c8ff4d" stroke-width="3"/>
+  <circle cx="1124" cy="132" r="8" fill="#c8ff4d"/>
+  <text x="1226" y="64" text-anchor="end" fill="#c8ff4d" font-family="monospace" font-size="39">↗</text>
+  <text x="995" y="238" text-anchor="middle" fill="#8a9a9f" font-family="monospace" font-size="12">ÉTAT / TESTS / REVUE / LIVRAISON</text>
+</svg>
