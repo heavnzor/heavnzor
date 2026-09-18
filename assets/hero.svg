@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">heavnz0r — Built to ship. Engineered to verify.</title>
+  <desc id="desc">Original racing-terminal identity for Antonu-Maria Mela. A graphite engineering dashboard with acid-green track lines and three project markers: Racer, CrashLab and ProofMill.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c8ff4d" stop-opacity=".14"/><stop offset="1" stop-color="#70e1ef" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="520" rx="22" fill="#0b0f14"/><rect width="1280" height="520" rx="22" fill="url(#grid)"/>
+  <path d="M984 0h296v520H732Z" fill="url(#wash)"/>
+  <rect x="48" y="40" width="8" height="18" fill="#c8ff4d"/>
+  <text x="70" y="55" fill="#dce3dc" font-family="monospace" font-size="14" letter-spacing="3">ANTONU-MARIA MELA / ENGINEERING SYSTEMS</text>
+  <text x="1230" y="55" text-anchor="end" fill="#9ba6ad" font-family="monospace" font-size="13">CORSICA, FR</text>
+  <text x="45" y="217" fill="#f0f2eb" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="127" letter-spacing="-7">heavnz0r<tspan fill="#c8ff4d">.</tspan></text>
+  <text x="53" y="283" fill="#f0f2eb" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="600">Built to ship.</text>
+  <text x="53" y="329" fill="#c8ff4d" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="600">Engineered to verify.</text>
+  <text x="55" y="380" fill="#9ba6ad" font-family="monospace" font-size="15">AGENTIC DEVTOOLS / AI SYSTEMS / DATA WORKFLOWS</text>
+  <path d="M866 140h217q94 0 94 79v14q0 49-57 49h-93q-29 0-29 32t-37 32h-95q-61 0-61-61v-73q0-72 61-72Z" fill="none" stroke="#29353a" stroke-width="30"/>
+  <path d="M866 140h217q94 0 94 79v14q0 49-57 49h-93q-29 0-29 32t-37 32h-95q-61 0-61-61v-73q0-72 61-72Z" fill="none" stroke="#c8ff4d" stroke-width="2" stroke-dasharray="6 9"/>
+  <g font-family="monospace" font-size="13" letter-spacing="1">
+    <rect x="935" y="122" width="121" height="36" rx="5" fill="#c8ff4d"/><text x="995" y="145" fill="#0b0f14" text-anchor="middle" font-weight="bold">01 / RACER</text>
+    <rect x="1070" y="264" width="157" height="36" rx="5" fill="#151d25" stroke="#ff786b"/><text x="1148" y="287" fill="#ff786b" text-anchor="middle">02 / CRASHLAB</text>
+    <rect x="832" y="328" width="173" height="36" rx="5" fill="#151d25" stroke="#70e1ef"/><text x="918" y="351" fill="#70e1ef" text-anchor="middle">03 / PROOFMILL</text>
+  </g>
+  <path d="M805 212h17m-17 9h17m-17 9h17" stroke="#f0f2eb" stroke-width="4"/>
+  <text x="1003" y="405" text-anchor="middle" fill="#9ba6ad" font-family="monospace" font-size="12" letter-spacing="2">BUILD → CHALLENGE → EXPLAIN</text>
+  <path d="M48 450h1184" stroke="#283138"/>
+  <text x="55" y="488" fill="#c8ff4d" font-family="monospace" font-size="13" letter-spacing="1">LEAD DEVELOPER + SYSTEM ARCHITECT</text>
+  <text x="1230" y="488" text-anchor="end" fill="#9ba6ad" font-family="monospace" font-size="13">THINK CLEARLY. BUILD DELIBERATELY.</text>
+</svg>
